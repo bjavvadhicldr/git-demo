@@ -88,18 +88,3 @@ bjavvadhi@22634 git-demo % git add README.md
 bjavvadhi@22634 git-demo % git status       
 On branch master
 
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	new file:   README.md
-
-bjavvadhi@22634 git-demo % git commit -m "Initial commit"
-[master (root-commit) ed0a598] Initial commit
- 1 file changed, 3 insertions(+)
- create mode 100644 README.md
-bjavvadhi@22634 git-demo % git status                    
-On branch master
-nothing to commit, working tree clean
-bjavvadhi@22634 git-demo % mate README.md                
-bjavvadhi@22634 git-demo %  
