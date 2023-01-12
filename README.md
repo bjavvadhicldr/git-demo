@@ -86,5 +86,5 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 bjavvadhi@22634 git-demo % git add README.md 
 bjavvadhi@22634 git-demo % git status       
-On branch master
+On branch m
 
