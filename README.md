@@ -70,7 +70,7 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 bjavvadhi@22634 git-demo % git add
-Nothing specified, nothing added.
+Nothing specified, nothinded.
 hint: Maybe you wanted to say 'git add .'?
 hint: Turn this message off by running
 hint: "git config advice.addEmptyPathspec false"
